@@ -39,7 +39,6 @@ const CardTrajectory: FC<baseProps> = ({
 
   return (
     <Wrapper
-      shadowColor={color}
       shadow="dark"
       border="0.188rem solid"
       borderColor={color}
